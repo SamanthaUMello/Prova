@@ -1,0 +1,67 @@
+.Container {
+    width: 100%;
+    margin: 20px;
+    margin: 20px; 
+    display: flex; 
+    flex-wrap: nowrap; 
+    justify-content: flex-start;
+}
+
+.Quadrado1 {
+    height: 600px;
+    width: 50px;
+    background-color: aliceblue;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    margin-right: 10px;      
+}
+
+.Quadrado2 {
+    height: 600px;
+    width: 200px;
+    background-color: aliceblue;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.Quadrado3 {
+    height: 600px;
+    width: 50px;
+    background-color: aliceblue;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.Quadrado4 {
+    height: 600px;
+    width: 200px;
+    background-color: aliceblue;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.Quadrado5 {
+    height: 600px;
+    width: 50px;
+    background-color: aliceblue;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.Quadrado6 {
+    height: 600px;
+    width: 200px;
+    background-color: aliceblue;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+}

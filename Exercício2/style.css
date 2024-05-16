@@ -1,0 +1,129 @@
+.Container1 {
+    width: 80%;
+    height: 250px;
+    margin-top: 25px ;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;    
+    flex-wrap: wrap;
+    flex-direction: row;    
+    align-items: center;
+    align-content: center;
+}
+
+.Quadrado1{
+    width: 250px;
+    height: 150px;
+    margin-top: 25px ;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    margin-left: 10px; 
+    justify-content: center; 
+}
+
+.Quadrado2{
+    width: 250px;
+    height: 150px;
+    margin-top: 25px ;
+    border: 2px solid #000000;
+    border-radius: 10px;    
+}
+
+.Quadrado3{
+    width: 250px;
+    height: 150px;
+    margin-top: 25px ;
+    border: 2px solid #000000;
+    border-radius: 10px;    
+}
+
+.Quadrado4{
+    width: 250px;
+    height: 150px;
+    margin-top: 25px ;
+    border: 2px solid #000000;
+    border-radius: 10px;   
+    margin-right: 10px; 
+}
+
+.Container2 {
+    width: 400px;
+    height: 250px;
+    margin-top: 10px;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    display: inline-block;
+    flex-direction: column;
+    align-items: center;    
+}
+
+.Quadrado5{
+    width: 100px;
+    height: 100px;
+    margin-top: 25px ;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.Quadrado6{
+    width: 100px;
+    height: 100px;
+    background-color: aliceblue;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    margin-top: 25px;
+    margin-right: 10px;
+    display: flex;
+    justify-content: space-between;
+    display: inline-block;
+    
+}
+
+.Container3 {
+    width: 400px;
+    height: 250px;
+    background-color: aliceblue;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 10px;
+    display: inline-block;
+}
+
+.Quadrado7{
+    width: 100px;
+    height: 100px;
+    background-color: aliceblue;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.Quadrado8{
+    width: 100px;
+    height: 100px;
+    background-color: aliceblue;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+    display: inline-block;
+    margin-right: 10px;
+}
+
